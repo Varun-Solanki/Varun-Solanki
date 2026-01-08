@@ -160,7 +160,7 @@
 
 ## ✍️ Dev Quote
 
-> *"Let Machines learn the patterns while we enjoy the Puzzles! - Varun Solanki"* 
+> *"Let Machines learn the patterns while we enjoy the Puzzles!" - Varun Solanki* 
 
 ---
 
