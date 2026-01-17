@@ -6,13 +6,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 3rd Year **Computer Engineering** student at **Shah & Anchor Kutchhi Engineering College**
-- 🤖 **AI/ML Engineer** specializing in Machine Learning, Data Analysis & Model Deployment
-- 💻 **Full Stack Developer** with strong frontend and backend orientation
-- 🧠 Strong foundation in **DSA, OOP, DBMS, OS, Computer Networks**
-- 🌱 Currently learning **Advanced ML Architectures, System Design & Production ML Systems**
+-  3rd Year **Computer Engineering** student at **Shah & Anchor Kutchhi Engineering College**
+-  **AI/ML Engineer** specializing in Machine Learning, Data Analysis & Model Deployment
+-  **Full Stack Developer** with strong frontend and backend orientation
+-  Strong foundation in **DSA, OOP, DBMS, OS, Computer Networks**
+-  Currently learning **Advanced ML Architectures, System Design & Production ML Systems**
 - 🧩 Passionate about building **scalable, production-ready AI solutions**
 
 ---
